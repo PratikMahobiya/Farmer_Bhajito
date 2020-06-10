@@ -1,0 +1,4 @@
+file.reference.htdocs-Update=.
+files.encoding=UTF-8
+site.root.folder=${file.reference.htdocs-Update}
+source.folder=${file.reference.htdocs-Update}
